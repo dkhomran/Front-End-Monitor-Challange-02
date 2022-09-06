@@ -229,6 +229,9 @@ footer a:hover {
     font-size: 12px;
     margin-top: 15px;
   }
+    footer {
+    font-size: 12px;
+  }
 }
 
 /* =============== End Mobile ============== */
